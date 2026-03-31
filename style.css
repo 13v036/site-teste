@@ -1,4 +1,3 @@
-
 body {
   text-align: center;
   font-family: Arial;
@@ -10,5 +9,22 @@ h1 {
 }
 
 button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* Imagem */
+img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+/* Tabela */
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th, td {
   padding: 10px;
 }
